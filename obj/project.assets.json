@@ -12161,11 +12161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter.Solution.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/AnimalShelterWebAPI/AnimalShelter.Solution.csproj",
       "projectName": "AnimalShelter.Solution",
-      "projectPath": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter.Solution.csproj",
+      "projectPath": "/Users/Guest/Desktop/AnimalShelterWebAPI/AnimalShelter.Solution.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/AnimalShelter.Solution/obj/",
+      "outputPath": "/Users/Guest/Desktop/AnimalShelterWebAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
