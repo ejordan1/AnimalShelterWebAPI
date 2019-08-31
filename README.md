@@ -6,7 +6,7 @@
 
 ## Description
 
-_This program manages animals in an animal shelter using SQL._
+_This is an API to manages animals in an animal shelter using SQL, and implements CORS._
 
 
 ## Setup/Installation Requirements
